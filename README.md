@@ -2,7 +2,7 @@
 
 Hi! I'm Manish!
 
-Technical Architect with 10+ years of experience who enjoys building large scalable products & platforms. Passionate about startups and working with new and emerging technologies. I also enjoy solving engineering problems and mentoring people.
+Technical Architect with 12+ years of experience who enjoys building large scalable products & platforms. Passionate about startups and working with new and emerging technologies. I also enjoy solving engineering problems and mentoring people.
 
 
 
